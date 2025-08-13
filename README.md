@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://play-lh.googleusercontent.com/EkL0sN-9tHq8BnyjvJ0roUdB5o5jWZNEwT9LPSiT0AqO3fnIJp9AZm7CBgLZmhO9fw=s180" alt="Notes App Icon" width="120" height="120">
-</p>
 
 <h1 align="center">📒 Notes – Notepad, Notebook</h1>
 
@@ -33,8 +30,6 @@ No logins, no unnecessary permissions — just you and your notes.
   <img src="screenshot2.png" width="250" alt="Editing Note">
   <img src="screenshot3.png" width="250" alt="Organizing Notes">
 </p>
-
-*(Replace with actual screenshots from your app.)*
 
 ---
 
